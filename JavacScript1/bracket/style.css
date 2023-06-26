@@ -1,0 +1,44 @@
+/*
+selector {
+    property: valuue;
+}*/
+p {
+    color: ;
+    gold;
+
+    cursor: pointer
+}
+
+body {
+    background-image: url('backgroundimage.jpg.jpg');
+
+    background-size: cover;
+    text-align: center
+}
+
+img {
+    float: left
+} 
+
+footer {
+    clear: both;
+    text-align: center
+}
+
+p {
+    color: #AA4139;
+    border: 5px solid rgb(255, 176, 170);
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 150%;
+    font-family: "Poiret+One", Georgia
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    line-height: 50px;
+
+
+}

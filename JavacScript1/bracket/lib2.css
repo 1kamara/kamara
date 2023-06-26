@@ -1,0 +1,11 @@
+.div {
+    margin: 10px;
+    width: 250px;
+    height: 15px;
+}
+.borde-image-1 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image-1: url(image/borderimage-1.jpg.JPG) round 50;
+    
+}
