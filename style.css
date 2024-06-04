@@ -69,7 +69,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: black;
+    background-color: green;
     color: white;
     padding: 2rem 1rem;
     position: sticky;
@@ -310,6 +310,51 @@ textarea {
      
 }
 /* contact section ends here */
+/* activy section starts here*/
+.act-nav1{
+    padding: 0.1rem;
+    
+}
+.banner__title{
+    font-size: 5rch;
+    background-color: gray;
+    text-align: center;
+    color: aqua;
+}
+.nav2__link{
+    font-size: 3rem;
+}
+.cong{
+    padding: 0.2rem;
+    text-align: left;
+    font-size: 3rem;
+    /* background-color: gray; */
+    color: black;
+}
+.cong2{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 5rem;
+}
+.cong3{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 3rem;
+}
+.afrciday{
+    padding-top: 2rem;
+}
+/* activy section ends here*/
+/* aboutus start here */
+.aboutus1{
+    padding: 2rem;
+    font-size: 4rem;
+}
+/* aboutus ends here */
 
 /* footer section starts here */
 .footer {
